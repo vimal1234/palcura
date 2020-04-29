@@ -1,0 +1,68 @@
+
+.fileUpload.btn.btn-primary.buttonht .form-group {min-height: inherit; margin-bottom: 10px;
+}
+#editProfile-form strong {  color: #5c5c5c;
+}
+.btn-primary.buttonht { background-color: transparent;  border-color: transparent;
+}
+.btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary.focus:active, .btn-primary:active:focus, .btn-primary:active:hover, .open > .dropdown-toggle.btn-primary.focus, .open > .dropdown-toggle.btn-primary:focus, .open > .dropdown-toggle.btn-primary:hover { background-color: transparent; border-color: transparent;  box-shadow: none;
+}
+.fileUpload.btn.btn-primary.buttonht p.help-block.help-block-error {
+  margin-bottom: 0;
+}
+#upload_add ,#upload_prev{  border: thin solid #e4e4e4 !important;  border-radius: 5px;  padding: 0.5em 1em 1.5em;  width: 65%;
+}
+input#additionalimg ,input#uploadFile { display: none;
+}
+.fileUpload.btn.btn-primary.buttonht { padding-left: 0; padding-right: 0; margin-left:0; margin-right:0;
+}
+.fileUpload {
+	position: relative;
+	overflow: hidden;
+	margin: 10px 3px;
+}
+.fileUpload input.upload {
+	position: absolute;
+	top: 0;
+	right: 0;
+	margin: 0;
+	padding: 0;
+	font-size: 20px;
+	cursor: pointer;
+	opacity: 0;
+	background-color:#fff;
+	filter: alpha(opacity=0);
+}
+						
+#upload_prev {
+	border:thin solid #000;
+	width: 65%;
+	padding:0.5em 1em 1.5em 1em;
+}
+
+#upload_prev span {
+    display: flex;
+	padding: 0 5px;
+	font-size:12px;
+}
+
+#upload_add {
+	border:thin solid #000;
+	width: 65%;
+	padding:0.5em 1em 1.5em 1em;
+}
+
+#upload_add span {
+    display: flex;
+	padding: 0 5px;
+	font-size:12px;
+}
+.filenameupload {
+	width:98%;	
+}
+
+p.close {
+    margin: 0 5px 0 5px;
+    cursor: pointer;
+	padding-bottom:0;
+}

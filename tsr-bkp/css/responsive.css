@@ -1,0 +1,97 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media screen and (max-width:1280px) {
+
+
+@media screen and (max-width:1199px) {
+	header { padding:40px 0;}
+	.logo { padding-bottom:30px;}
+	.logo img { width:35%;}
+	h1.comingsoon { font-size:24px; letter-spacing:3px;}
+	.countdown-container .countdown-value { font-size:40px !important; padding:20px 0;width:80px; }
+	.countdown-container .countdown-heading { font-size:14px; margin:5px 0px;}
+	.countdown { margin-bottom:18px; padding-bottom:22px;}
+	h2.white  , h2.white  span{ font-size:22px;}
+	form.teasureForm .form-control  { height:40px; font-size:13px;}
+	.signButton { height:40px; font-size:13px; line-height:40px;}
+	.signButton a { font-size:13px;} 
+	.customTabs .nav-pills > li > a { font-size:14px; padding:20px 0px;}
+	.stepBg h3 { font-size:18px; letter-spacing:3px;}
+	.thumb { padding-left:50px; max-width:400px;}
+	.text { max-width:500px; padding-top:20px;}
+	.marginBlock { margin-bottom:60px;}
+	
+	
+}
+@media screen and (max-width:1024px) {	
+	
+}
+ @media screen and (max-width:991px) {
+	
+	form .form-group {margin-bottom: 20px;}
+	.threethumb { padding-left: 32px;width: 40%;}
+	.threeText {padding: 57px 18px 0 0;width: 56%;}
+	h3 {font-size: 18px;}
+	p { font-size: 15px;}
+	.customTabs .nav-pills > li > a{font-size:13px;}
+	h2.white  , h2.white  span{ font-size:18px;}
+	.signText { padding-left: 119px;}
+	.countdown-container .countdown-value { font-size: 50px;}
+	.countdown::before { left:10%; width:80%; right:10%;}
+	.thumb {max-width: 300px;padding-left: 50px;}
+	.signThumb { float:left; margin-left:50px;}
+	.stepBg { margin-bottom:40px;}
+	.signBlock , .signBlock.connectBlock , .signBlock.shareBlock { background-position:left 5px; background-size:70px;}
+	header { background-position:26% center;}
+	
+	
+}
+
+ @media screen and (max-width:767px) {
+	 .countdown-container .countdown-value { font-size:30px !important; padding:20px 0;  width:80px; }
+	 .countdown-container .countdown-heading { font-size:11px; margin:5px 0px;}
+	 form.teasureForm .form-group { margin-bottom:15px;}
+	 .signBlock h2::before { bottom:20px;}
+	 .signBlock h2 { padding-bottom:40px;}
+	 .signThumb img { padding:15px;}
+	 .signThumb { margin-left:90px; width:120px; height:120px;}
+	 .marginBlock { margin-bottom:30px;}
+	 .thumb { max-width:inherit; padding:0px; text-align:center;}
+	 .thumb img { float:none; display:inline-block; width:auto; max-width:100%; height:auto;}
+	 .text { padding:0 15px; max-width:inherit; margin:30px 0 0 0;}
+	 .signBlock h2 { font-size:25px;}
+	 .signBlock , .signBlock.connectBlock , .signBlock.shareBlock { background-position:left 5px; background-size:50px;}
+	 .signText { padding-left:70px; padding-bottom:10px;}
+	 .contentArea { padding:40px 0px;}
+	 p { font-size: 14px;}
+	h1{ font-size:34px;}
+	header { background-position:42% center;}
+}
+
+@media screen and (max-width:640px){
+	h1.comingsoon { font-size:18px;}
+	.logo {padding-bottom: 15px;}
+	.countdown { padding-top:20px;}
+	
+	
+	.tabs {display: none;}
+	.tab_drawer_heading { font-size:14px;margin-bottom:4px; border:1px solid #ff7738;font-family: 'montserratmedium';	padding: 10px 15px;display: block;cursor: pointer;-webkit-touch-callout: none;-webkit-user-select: none;-khtml-user-select: none;		-moz-user-select: none;-ms-user-select: none;user-select: none; float:left; width:100%; background:#ff7738; color:#fff; text-transform:uppercase;}
+	.tab_content { padding:20px;border: 1px solid #e0e0e0; float:left; width:100%; margin-bottom:4px;}
+	h1{ font-size:30px;}
+
+}
+ @media screen and (max-width:580px) {
+	
+}
+@media screen and (max-width:480px){
+	.full { width:100%;}
+	.logo img { width:60%;}
+	.countdown::before { left:0; width:100%; right:0;}
+	
+}
+@media screen and (max-width:380px){
+	 .countdown-container .countdown-value { font-size:22px !important; padding:20px 0;  width:60px; }
+	 .countdown-container .countdown-heading { font-size:11px; margin:5px 0px;}
+	
+}

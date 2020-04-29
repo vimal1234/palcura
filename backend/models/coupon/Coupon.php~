@@ -1,0 +1,34 @@
+<?php
+namespace backend\models\coupon;
+use Yii;
+
+/**
+ * This is the model class for table "coupons".
+ *
+ */
+class Coupon extends \yii\db\ActiveRecord
+{
+
+	public $coupon_name;
+   	public $coupon_code;
+   	public $coupon_valid_date;
+   	public $coupon_description;
+   	public $owner_list;
+   	public $renter_list;
+    /**
+     * @inheritdoc
+     */
+    public function rules() {
+        return [
+            
+        ];
+    }
+    /**
+     * @inheritdoc
+     */
+    public static function tableName()
+    {
+        return 'coupons';
+    }
+
+}

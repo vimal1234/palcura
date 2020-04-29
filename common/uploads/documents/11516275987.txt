@@ -1,0 +1,6 @@
+Microsoft (R) Mouse and Keyboard  Center Readme File
+(c) 2016 Microsoft Corporation. All rights reserved.
+
+If you have a question about your Microsoft keyboard or mouse, see Microsoft Mouse and Keyboard  Center Help on the Microsoft Hardware Support Website http://www.microsoft.com/hardware/en-us/windows-8/how-to.
+
+If your question isn't covered in Help, you can find the most up-to-date or late-breaking information about your Microsoft Mouse and Keyboard  Center software, your Microsoft keyboard or mouse, and hardware and software compatibility on the Web at: http://go.microsoft.com/fwlink/?LinkID=229912

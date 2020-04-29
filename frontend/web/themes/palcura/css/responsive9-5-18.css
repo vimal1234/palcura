@@ -1,0 +1,511 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media (min-width:992px)and (max-width:1600px) {
+	.detailAreaLeft .modal-dialog {margin: 30px auto;width: 652px;}
+
+	
+}
+ @media screen and (min-width:1024px) {
+	 
+.tableresp table {  max-width: inherit;  width: inherit;
+}
+.tableresp tr td, .tableresp tr th { width: 129px;
+}
+ 
+}
+
+
+ @media screen and (max-width:1199px) {
+	.formBorder select.form-control {width: 150px;}
+	.formContentSidebar {padding: 0 0;}
+
+	.captcha button {float: right;margin: 10px 0 0;}
+	.bookingDetailInner li {margin: 0 7px 30px 0;width: 150px;}
+	.customForm label {font-size: 12px;}
+	.customForm input {font-size: 12px;min-height: 36px;padding-left: 5px;}
+	.customForm select {font-size: 12px;min-height: 36px;padding-left: 5px;}
+	.customForm .input-group-addon {padding: 6px 0px;}
+	.filterBtn button {font-size: 13px;}
+	.detailAreaLeft {max-width: 330px;}
+	.bookNow li a {padding: 20px;}
+	.bookNow button {padding: 15px 15px;}
+	.sthumb {max-width: 370px;}
+	h2 {font-size: 38px;}
+	h3 {font-size: 31px;}
+	.Highlighted {font-size: 19px;line-height: 25px;}
+	header {padding: 40px 0;}
+	.logo {padding-bottom: 30px;}
+	.logo img {width: 35%;}
+	h1.comingsoon {font-size: 24px;	letter-spacing: 3px;}
+	.countdown-container .countdown-value {font-size: 40px !important;padding: 20px 0;width: 80px;}
+	.countdown-container .countdown-heading {font-size: 14px;margin: 5px 0px;}
+	.countdown {margin-bottom: 18px;padding-bottom: 22px;}
+	h2.white, h2.white span {font-size: 22px;}
+	form.teasureForm .form-control {height: 40px;font-size: 13px;}
+	.signButton {height: 40px;font-size: 13px;line-height: 40px;}
+	.signButton a {font-size: 13px;}
+	.customTabs .nav-pills > li > a {font-size: 14px;padding: 20px 0px;}
+	.stepBg h3 {font-size: 18px;letter-spacing: 3px;}
+	.thumb {padding-left: 50px;max-width: 400px;}
+	.text {max-width: 500px;padding-top: 20px;}
+	.marginBlock {margin-bottom: 60px;}
+	.textBlock {padding: 0 30px;}
+	ul.topList li:hover a::before {bottom: -36px;}
+	.bannerHeading {margin-top: 150px;font-size: 50px;line-height: normal;}
+	header.homepage {padding-bottom: 120px;}
+	.bannerButton button {font-size: 14px;width: 270px;}
+	.leftCol {float: left;max-width: 300px;}
+	.rightCol {float: left;margin-left: 30px;max-width: 550px;}
+	.cols {float: left;margin-right: 8px;width: 175px;}
+	.leftSidebarNav ul li a {font-size: 13px;padding: 10px 9px 11px;}
+	table tr td {font-size: 14px;}
+	.leftColumn {width: 48%;}
+	.rightColumn {width: 52%;}
+	
+	.innerpages ul.topList li { padding:0 17px;}
+	.topDropdown { padding-left:17px;}
+	.topDropdown .dropdown-menu { top:70px;}
+	.dropdown-menu > li > a { line-height:30px; font-size:13px;}
+	.sidebarUser a { padding:10px 5px;}
+	.sidebarPrice { font-size:13px;}
+	.sidebarPriceValue { font-size:24px;}
+	.loginPage .formLogRight h4 { font-size:18px;}
+	.formLeftSidebar a { padding:13px 4px 11px;}
+	.ratingspage .greyText   { width:84%;}
+	
+	.dashboardList ul li .check i { width:40px; height:40px; padding:10px 0 0 0; font-size:18px;}
+	.dashboardList ul li .uncheck { width:40px; height:40px;}
+	.dashboardList > ul { background-position:18px top;}
+	.dashboardList ul li p { font-size:13px; padding:12px 0 0 35px;}
+	.dashboardListing { font-size:15px; padding:11px 0 0 37px;}
+	
+	.sidebarUser.editUser a {
+  padding: 11px 10px;
+}
+	.sidebarBlk.sideuserBlk {
+  padding: 16px 5px;
+}
+
+
+	.tabHead .nav.nav-tabs { margin-top:5px;}
+	.greyBox .orangeBtn {
+  padding: 10px 15px;
+}
+	
+}
+@media screen and (max-width:1024px) {
+	.vissionmission:before {background-size: 40%}
+	.vissionmission:after {background-size: 30%}
+	.vissionmission {padding: 60px 0px;}
+	.title {font-size: 24px;line-height: normal;}
+	.subtitle {font-size: 16px;line-height: 24px;padding-bottom: 20px;}
+	.textBlock p {font-size: 14px;line-height: 20px;padding-bottom: 20px;}
+	.date {padding-top: 0;}
+	.detailAreaLeft .orangeBtn a {font-size: 13px;}
+	.ratingBar-right .date { padding-top:12px;}
+	.greyBox , .greyBoxPopup { display:table;}
+	.greyText , .listingPopup .greyText { float:none; display:table-cell; width:100%; vertical-align:top; padding:20px 20px 20px 0;}
+	.greyThumb , .greyThumb2  { float:left; width:80px; margin-top:20px; margin-left:20px;}
+	.greyBoxPopup .rating { padding:0px;}
+	.tab-pane .greyBox { display:inherit;}
+	.activityLog { padding-top:0px;}
+.detpage .leftColumn .greyThumb{width:90%;padding: 0px;margin: 0px;text-align: center;}
+	
+	
+	
+	
+	
+}
+@media (min-width:768px)and (max-width:1024px) {
+
+.formLogRight ,.formLogleft{ float: left; width: 100%;
+}
+.textinfo { padding: 30px 0; top: 0; position: relative;
+}
+	
+}
+
+
+@media screen and (max-width:991px) {
+.rightColumn.bookingstatus{width:100%;}
+	.btnSubmit {float: left;width: 100%;}
+	.formContentSidebar li p {font-size: 12px;margin: 0 0 0 10px;}
+	.formContentSidebar li a {font-size: 12px;margin: 0 0 0 7px;}
+	.captcha button {float: left;margin: 20px 0 0;}
+#frmSignupUser .captcha button {float: right;}
+#addmore_services.orangeBtn{margin-top:0px;margin-bottom: 25px; }
+	.activityLogInner .table > thead > tr > th {font-size: 13px;}
+	.activityLogInner .table tbody tr td {font-size: 13px;}
+	.userService.detailsBottom li {width: 50%;padding-left: 0;border-right: none;}
+	.dashboardUpload .greyBox {padding: 20px 10px;}
+	.bookingDetailInner li {margin: 0 8px 30px 0;width: 100px;}
+	.leftColumn {width: 100%;}
+	.rightColumn {margin: 20px 0 0 0;width: 100%;}
+	.greenBlk {float: left;margin: 0 0 0 20px;}
+	.tabBlock ul {float: left;width: 100%;}
+	.tabBlock .orangeBtn {float: left;margin: 5px 0 0 0;}
+	.highlights {width: 100%;}
+	.detailAreaLeft {max-width: 170px;}
+	.detailAreaRight {padding: 0 0 0 15px;width: 75%;}
+	.bookNow li a {font-size: 13px;	padding: 10px;}
+	.bookNow button {padding: 10px !important;font-size: 13px;}
+	.detailsBottom ul li {padding: 6px 20px;}
+	.pictures {margin: 0 0 30px 0;}
+	h2 {font-size: 36px;}
+	h3 {font-size: 30px;}
+	.Highlighted {font-size: 19px;line-height: 25px;}
+	.formLogleft {padding: 33px 30px 40px;}
+
+	form .form-group {margin-bottom: 20px;}
+	.threethumb {padding-left: 32px;width: 40%;}
+	.threeText {padding: 57px 18px 0 0;width: 56%;}
+	p {font-size: 14px;}
+	.customTabs .nav-pills > li > a {font-size: 13px;}
+	h2.white, h2.white span {font-size: 18px;}
+	.signText {padding-left: 119px;}
+	.countdown-container .countdown-value {font-size: 50px;}
+	.countdown::before {left: 10%;width: 80%;right: 10%;}
+	.thumb {max-width: 300px;padding-left: 50px;}
+	.signThumb {float: left;margin-left: 50px;}
+	.stepBg {margin-bottom: 40px;}
+	.signBlock, .signBlock.connectBlock, .signBlock.shareBlock {background-position: left 5px;background-size: 70px;}
+	ul.footerListing li span {padding: 0 12px;}
+	footer.footer {padding: 30px 0;}
+	ul.topList li:hover a::before {bottom: -34px;}
+	.threeCol .col .colThumb {width: 120px;	height: 120px;}
+	.threeCol .col .colThumb.dog, .threeCol .col .colThumb.cat, .threeCol .col .colThumb.other, .threeCol .col:hover .colThumb.dog, .threeCol .col:hover .colThumb.cat, .threeCol .col:hover .colThumb.other {background-size: 50%;}
+	.titleheading {	font-size: 26px;padding-bottom: 15px;}
+	.bannerHeading {margin-top: 50px;font-size: 40px;}
+	.bannerButton button {width: 250px;padding: 20px 10px;margin-bottom: 15px;}
+	header.homepage {background-position: center center;}
+	.leftCol {float: left;max-width: 100%;width: 100%;}
+	.rightCol {max-width: 100%;width: 100%;margin: 20px 0 0 0;}
+	.cols {width: 100%;margin: 0 0 10px 0;}
+p.slide {
+  display: block;
+  float: left;
+  padding-top: 10px;
+  width: 100%;
+}
+	.customTable {float: left;width: 100%;overflow: scroll;}
+	.customTable table {width: 850px;}
+
+	.whiteBox {width: 100%;}
+	.topDropdown .dropdown-menu { top:67px;} 
+	.contentArea , .greySection { padding:40px 0px;}
+	.borderbottom { padding-bottom:25px; margin-bottom:25px;}
+	h3::after { bottom:-15px;}
+	h3 { margin-bottom:45px;}
+	.desc .title { font-size:16px;}
+	.orangeBtn { padding:15px 20px;}
+	.innerpages h1 { font-size:36px; padding-top:30px;}
+	header.homepage.innerpages { padding-bottom:40px;}
+	.detailAreaHead-right .greenBlk { margin:0px; width:60px; height:60px; line-height:60px;}
+	.userService.detailsBottom > ul { padding:15px 0 0 0;}
+	.detailsBottom ul li { padding:0px; border-bottom:1px solid #dadada !important; padding: 0 0 10px; margin-bottom:10px;}
+	.detailsBottom p { padding:0px;}
+	.detailsBottom span { margin:0px; letter-spacing:0px; font-size:14px;}
+	.userService.detailsBottom { margin-bottom:30px;}
+	.userAccordian { margin-bottom:0px;}
+	.userPictures .pictures { margin:15px 0px;}	
+	.loginPage .formLogRight button { margin-top:29px;}
+	.loginPage .yellowBtn { padding:15px 31px;}
+	.detailsBottom ul li { border-right:0px solid #000; width:50%;}
+	.detailsBottom p { font-size:13px;}
+	.greenBlkMain , .tab-pane .greenBlk { float:right;}
+	.customPagination { margin:20px 0 0 0;}
+	.pagination { margin-bottom:0px;}
+	.greyBox.noMargin { margin-bottom:10px !important;}
+	.bookingDetail { margin-top:20px;}
+	.bookingReview { margin:20px 0 0;}
+	.bookingReview .greyBox { display:inherit;}
+	.dashboardsitter { padding-bottom:40px !important;}
+	.tableresp .table { margin:0px; width:850px;  max-width:inherit; margin-bottom:15px;}
+	.tableresp { float:left; width:100%;overflow:scroll;}
+	
+	.panel-group {margin-bottom: 10px;float: left;width: 100%;}
+	.searchBox { width:170px;}
+	.messageBlk { font-size:13px;}
+	
+	.responsive-tabs-container.accordion-sm.pastBookingAccord .nav-tabs { display:block !important;}
+	
+	
+	
+	.flux.top .scrolltoLeft { float:right; }
+	.scrolltoLeft {display: none;float: left;}
+	.scrolltoLeft1 {display: none;float: right;}
+	.selected {display: block;}
+	.customTable {overflow-x: scroll; margin-bottom:10px;}
+	.flux { display:block;}
+	.messageBlk  { margin-top:6px;}
+	.tabHead .nav.nav-tabs { margin-top:5px;}
+	.delBlock li a { font-size:14px;}
+	.tablePayments { margin:10px 0px;overflow-x: scroll;}
+	
+
+	.outerBtn {
+  float: left;
+}
+	
+	.tabBlock .outerBtn .orangeBtn {
+  margin-right: 5px;
+}
+
+
+}
+ @media screen and (max-width:767px) {
+.orangeBtn.remove_service_row{margin-top:0px; margin-bottom:20px;}
+	 .formLeftSidebar a { padding:13px 9px 11px;}
+	 .brdrbottom {border-bottom:1px solid #e5e5e5 ; padding-bottom:15px; margin-bottom:15px !important;}
+	 .mobileside { display:inline-block; float:right; font-size:20px; background:#ff8447 ; padding:3px 15px; color:#fff;border-radius:3px; cursor:pointer;}
+	 .dashowner { border-top:1px solid #e5e5e5 ; padding-top:15px; margin-top:15px;}
+	.leftColorCol { margin-bottom: 20px;}
+	 
+	 
+	 .formLeftSidebar a { margin:15px 0px;}
+	 .leftSidebarNav { padding-bottom:0px; display:none;}
+	 .formLeftSidebar { margin-top:15px;}
+	.formContentSidebar li p {font-size: 14px;margin: 0 0 0 19px;}
+	.ratingBar-left {margin: 3px 0 0;}
+	.formContentSidebar li a {font-size: 14px;margin: 0 0 0 15px;}
+	.dashboardUpload .greyBox {padding: 20px 20px;}
+
+	.viewBlk {bottom: 4px;}
+	.formBorder {float: left;}
+	.formBorder label {float: left;	padding: 5px 10px 35px 0;}
+	.leftColumn .greyText {width: 100%;}
+	.logoImg {margin: 0 0 10px 0;}
+	.detailAreaLeft {max-width: 150px;}
+	.detailAreaRight {padding: 0 0 0 15px;	width: 73%;}
+	.bookNow li a {padding: 10px;font-size: 11px;}
+	.bookNow > button {padding: 10px !important;font-size: 11px !important;}
+	.detailsBottom ul li {padding: 6px 10px !important;}
+	.sthumb {max-width: 300px;}
+	h2 {font-size: 34px;}
+	h3 {font-size: 29px;}
+	.Highlighted {font-size: 18px;line-height: 23px;}
+	.smallThumb > img {display: block;margin: auto;}
+	.desc {margin: 0 0 50px;padding: 0 30px;}
+	.standardList01 {margin: 15px 0 0;}
+	.standardList02 {margin: 0 0 15px;}
+	.greySection {padding: 40px 0px;}
+	.countdown-container .countdown-value {font-size: 30px !important;padding: 20px 0;width: 80px;}
+	.countdown-container .countdown-heading {font-size: 11px;margin: 5px 0px;}
+	form.teasureForm .form-group {margin-bottom: 15px;}
+	.signBlock h2::before {bottom: 20px;}
+	.signBlock h2 {padding-bottom: 40px;}
+	.signThumb img {padding: 15px;}
+	.signThumb {margin-left: 90px;width: 120px;height: 120px;}
+	.marginBlock {margin-bottom: 30px;}
+	.thumb {max-width: inherit;padding: 0px;text-align: center;}
+	.thumb img {float: none;display: inline-block;width: auto;max-width: 100%;	height: auto;}
+	.text {padding: 0 15px;max-width: inherit;margin: 30px 0 0 0;}
+	.signBlock h2 {font-size: 25px;}
+	.signBlock, .signBlock.connectBlock, .signBlock.shareBlock {background-position: left 5px;background-size: 50px;}
+	.signText {padding-left: 70px;padding-bottom: 10px;}
+	.contentArea {padding: 40px 0px;}
+	p {font-size: 14px;}
+	h1 {font-size: 34px;}
+	ul.footerListing {margin: 19px 0 0 0;width: 100%;text-align: center;}
+	ul.footerListing li {float: none;display: inline-block;}
+	.copyOuter {padding-top: 10px;}
+	.footerLogo {width: 100%;text-align: center;margin: 10px 0 0 0;}
+	.footerLogo img {float: none;display: inline-block;max-width: 100%;width: auto;height: auto;}
+	.vissionmission {background: rgba(253,218,198,1);background: -moz-linear-gradient(top, rgba(253,218,198,1) 0%, rgba(253,218,198,1) 50%, rgba(255,238,194,1) 50%, rgba(255,238,194,1) 100%);background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(253,218,198,1)), color-stop(50%, rgba(253,218,198,1)), color-stop(50%, rgba(255,238,194,1)), color-stop(100%, rgba(255,238,194,1)));background: -webkit-linear-gradient(top, rgba(253,218,198,1) 0%, rgba(253,218,198,1) 50%, rgba(255,238,194,1) 50%, rgba(255,238,194,1) 100%);background: -o-linear-gradient(top, rgba(253,218,198,1) 0%, rgba(253,218,198,1) 50%, rgba(255,238,194,1) 50%, rgba(255,238,194,1) 100%);background: -ms-linear-gradient(top, rgba(253,218,198,1) 0%, rgba(253,218,198,1) 50%, rgba(255,238,194,1) 50%, rgba(255,238,194,1) 100%);background: linear-gradient(to bottom, rgba(253,218,198,1) 0%, rgba(253,218,198,1) 50%, rgba(255,238,194,1) 50%, rgba(255,238,194,1) 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fddac6', endColorstr='#ffeec2', GradientType=0 );}
+	.vissionmission:before, .vissionmission:after {display: none;}
+	.textBlock {margin: 30px 0;}
+	.vissionmission {padding: 15px 0;}
+	.logoImg {text-align: center;}
+	.logoImg img {float: none;display: inline-block;}
+	.topsection {float: left;width: 100%;}
+	.signUp a {padding: 10px 12px;}
+	ul.topList li a {font-size: 14px;}
+	ul.topList li:hover a::before {bottom: -27px;}
+	.block01 {padding: 25px 15px;}
+	.text01 {font-size: 14px;}
+	.user-img {float: left;}
+	.rightPopup {margin: 20px 0 0 0;width: 100%;}
+	.resTop {float: left;text-align: center;width: 100%;}
+	.topsection {display: inline-block;float: none;margin: auto;text-align: center;width: auto;}
+	.detail-title-right p {margin: 0;}
+	.verifiedMain {margin: 20px 0 0 0;width: 100%;float: left;}
+	.bookingDetailInner li {margin: 0 30px 30px 0;width: auto;float: left;}
+	.bookingDetailInner li:last-child {margin: 0 30px 30px 0;}
+	.contentAreaDashboard {padding-top: 80px;}
+	.whiteBox.yellowBox {margin-right: 0;}
+	.whiteBox {padding: 24px 14px 12px 14px;}
+	.innerpages ul.topList li { padding: 0 10px;}
+	.topDropdown .dropdown-menu {top: 70px;}
+	.notifications { top:7px;}
+	.formContentSidebar {padding: 0 15px; margin:0px 0 10px 0;}
+	.formContentSidebar li { padding:10px 0px;}
+	input.form-control { height:40px; font-size:14px;}
+	.formContentSidebar li p br { display:none;}
+	.sliderTime { margin-bottom:15px;}
+	.formBorder { float:right;}
+	.detailTitle { font-size:16px ; letter-spacing:0px;}
+	.sideThumb { float:left; width:100%; text-align:center;}
+	.sideThumb img { float:none; display:inline-block; max-width:100%; height:auto; width:auto;}
+	.sidebarBlk { margin-bottom:0px;}
+	.formLogleft { width:100%; float:left; display:inline; padding:30px; height:auto;}
+	.formLogRight { float:left; width:100%; display:inline; padding:30px; background-image:url(../images/log-bg.png); background-repeat:no-repeat; background-position:right bottom; background-size:50%;}
+	.textinfo { position:inherit; top:0; padding:0px;}
+	.loginPage .formLogRight h4 { margin-bottom:15px;}
+	.formLogRight > img { display:none;}
+	.detailArea { padding:40px 0;}
+	.contentArea2 { padding:0px;}
+	.contentArea3 { padding-bottom:40px;}
+	.detailAreaInnerModel .modal-header .close {color: #383838;margin-top: 10px;position: absolute;right: 30px;top: 0; z-index:999;}
+	.dashboardList ul li p { min-width:35%;}
+	.contentAreaDashboard { padding-top:40px;}
+	.sidebarBlk.sideuserBlk { width:100%;}
+	.sidebarUser.editUser a {width: 100%;}
+	
+	
+	
+	.map iframe { min-height:300px; margin:0 0 40px 0;}
+	
+	
+	
+
+
+}
+ @media screen and (max-width:640px) {
+	.bookingDetailInner li {margin: 0 20px 20px 0;width: 150px;float: left;}
+	.bookingDetailInner li:last-child {margin: 0 20px 20px 0;}
+	.detailAreaLeft {max-width: 100%;}
+
+	.detail-title-right p {margin: 0 0 0 0;}
+	.detailAreaRight {padding: 0;width: 100%;margin: 20px 0 0 0;}
+	.sthumb {max-width: inherit; margin:0px 0 15px 0;}
+	.sthumb img { width:100%;}
+	.formLogleft {width: 100%;}
+	.formLogRight {width: 100%;}
+	h1.comingsoon {font-size: 18px;}
+	.logo {padding-bottom: 15px;}
+	.countdown {padding-top: 20px;}
+	.tabs {display: none;}
+	.tab_drawer_heading {font-size: 14px;margin-bottom: 4px;border: 1px solid #ff7738;font-family: 'montserratmedium';padding: 10px 15px;display: block;cursor: pointer;-webkit-touch-callout: none;-webkit-user-select: none;-khtml-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;float: left;width: 100%;background: #ff7738;color: #fff;	text-transform: uppercase;}
+	.tab_content {padding: 20px;border: 1px solid #e0e0e0;float: left;width: 100%;margin-bottom: 4px;}
+	h1 {font-size: 30px;}
+	.listingPopup .greyText {width: 100%;}
+	.detailAreaLeft img { width:100%;}
+	.customPagination .pagination > li > a, .customPagination .pagination > li > span { padding:5px 12px;}
+}
+ @media screen and (max-width:580px) {
+
+	.detail-title-right .greenBlk {float: left;	margin: 0 0 0 0;}
+	.lightGrey .form-control {margin: 14px 0 14px 0;}
+	.lightGrey .orangeBtn {float: left;margin: 9px 10px 10px 0;}
+	.nav-tabs > li > a {font-size: 13px;}
+	.greyBox { display:inherit;}
+	.greyThumb { float:left; width:100%; padding:0px; margin:0px; text-align:center;}
+	.greyThumb img { float:none; display:inline-block;}
+	.greyText { display:inherit;  padding:0px;}
+	.leftColumn .greyText {width: 100%;text-align: center;}
+	.ratingspage .greyText   { width:100%;} 
+.pastBookingDetails .leftColumn .greyText{width:100%;}
+}
+@media screen and (max-width:480px) {
+	.nav-tabs li {margin-right: 20px;}
+	.greyBox .detailAreaLeft {width: 100%;}
+	.greyBox .detailAreaRight {padding-left: 0;width: 100%;}
+	
+	.col-md-20 {float: left;width: 50%;margin: 0 0 20px 0;}
+	.DateBlk {padding: 16px 10px 18px;}
+	.col-md-20 img {width: 100%;}
+	.activityLog {padding: 40px 0 0 0;}
+	.ratingBar-right {float: left;width: 100%;}
+	.detailPop {float: left;margin: 0;width: 100%;}
+	.responsive420 {width: 50%;}
+	.bookNow button {width: 100% !important;font-size: 14px;}
+	.detailsBottom span {float: none;}
+	.bookNow ul {margin: 10px 0 0 0;width: 100%;}
+	.bookNow li {width: 100%;}
+	.bookNow li a {border: medium none;font-size: 14px;padding: 10px 0;width: 100%;text-align: center;}
+
+	.DateBlk {max-width: 110px;}
+	.DateBlk label {font-size: 13px;}
+	.DateBlk input {font-size: 14px;}
+	
+	.full {width: 100%;}
+	.formLogleft .full.forget > a { float: left!important; }
+	.logo img {width: 60%;}
+	.countdown::before {left: 0;width: 100%;right: 0;}
+	.threeCol .col {width: 100%;margin-bottom: 15px;background: none;border-bottom: 1px dashed #e0d6d1;padding-bottom: 15px;}
+	.signUp a {font-size: 13px;margin-top: 5px;padding: 10px 20px;}
+	.threeCol .col:last-child {border-bottom: 0px solid #000;}
+	
+	.formContentSidebar ul  { display:table;}
+	.formContentSidebar li i { float:left; width:20px; margin-right:10px;}
+	.formContentSidebar li a { margin:0px;}
+	.formContentSidebar li p { float:none; display:table-cell; vertical-align:top; margin:0px;}
+	.headingListing { margin:5px 0 0 0;}
+	.heading { font-size:14px; padding:0px;}
+	.formBorder label { padding:5px 10px 0 0; margin:0px; font-size:14px;}
+	.formBorder select.form-control { font-size:14px; height:34px;}
+	.formBorder select.form-control { width:120px;}
+	.detailAreaHead-left { width:100%;}
+	.detailAreaHead-right { width:auto; float:left; padding:8px 0px;}
+	
+	.greyBoxPopup { display:inherit;}
+	.greyThumb2 { margin:0px; width:100%; text-align:center;}
+	.greyThumb2 img { float:none; display:inline-block; max-width:100%; width:auto !important;}
+	.listingPopup .greyText { float:left; width:100%; display:inherit; padding:0px;}
+	.greyBoxPopup { margin-bottom:20px; padding-bottom:10px;}
+	.DateBlk {float: left;margin: 0 5px 0 0;max-width: inherit;width: 48%; padding:10px; text-align:center;}
+	
+	.greenBlk {font-size: 16px;height: 65px;line-height: 65px;text-align: center;width: 65px;}
+	.greenBlkMain { float:left; width:100%; text-align:center; padding:20px 0px 0px;}
+	.greenBlkMain .greenBlk { float:none !important; display:inline-block;}
+	.alert-dismissable .close, .alert-dismissible .close {right: -8px;top: -4px;}
+	
+	.alert.alert-dismissible.output { padding:8px 15px;}
+	
+	
+	
+}
+ @media screen and (max-width:420px) {
+	.bookingDetailInner li {margin: 0 20px 20px 0;width: 100px;float: left;}
+	.bookingDetailInner li:last-child {margin: 0 20px 20px 0;}
+	ul.topList li {padding: 0 10px;}
+	.topDropdown {padding: 7px 0 0 10px;}
+	.bookingDetailInner li {margin: 0 30px 30px 0;width: 100px;float: left;}
+	.bookingDetailInner li:last-child {margin: 0 30px 30px 0;}
+
+
+}
+ @media screen and (max-width:380px) {
+	.rightColumn .greenBlk {margin: 10px 0 0 0;float: left;}
+	.left.carousel-control > img {width: 10px !important;}
+	.right.carousel-control > img {width: 10px !important;}
+	/*.carousel-control {top: 23%;}*/
+	
+
+
+
+	.countdown-container .countdown-value {font-size: 22px !important;padding: 20px 0;width: 60px;}
+	.countdown-container .countdown-heading {font-size: 11px;margin: 5px 0px;}
+	.DateBlk {padding: 16px 10px 18px;}
+	.innerpages h1 {font-size: 24px;padding-top: 20px;}
+	
+	
+	.pastBookingAccord .nav-tabs > li > a { font-size:10px;}
+	.pastBookingAccord .nav-tabs li { margin-right:6px;}
+	
+	
+	
+}
+ @media screen and (max-width:360px) {
+	.formLogleft a {float: left;width: 100%;}
+	.nav-tabs li {margin-right: 15px;}
+	.messageBlk {font-size: 13px;}
+	ul.topList li a {font-size: 13px;}
+	.btn.btnTransparent {font-size: 12px;}
+	ul.topList li {padding: 0 5px 0 0;}
+	.topDropdown {padding: 7px 0 0 5px;}
+	.dropdown-menu > li > a {font-size: 13px;	padding: 0 20px 0;}
+	.date {margin-bottom: 10px;}
+	.notifications { top:4px;}
+}

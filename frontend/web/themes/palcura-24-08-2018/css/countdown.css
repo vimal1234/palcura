@@ -1,0 +1,44 @@
+
+.countdown {
+  font-family: 'montserratlight';
+  text-transform: uppercase;
+  padding-top:31px;
+  position:relative;
+  padding-bottom:35px;
+  margin-bottom:33px;
+}
+.countdown::before {
+  background:rgba(255,255,255,0.10);
+  bottom: 0;
+  content: "";
+  height: 1px;
+  left: 85px;
+  position: absolute;
+  width: 84%;
+}
+
+.countdown > div { display: inline-block; }
+
+.countdown > div > span {
+  display: block;
+  text-align: center;
+}
+
+.countdown-container { margin: 0 3px; }
+
+.countdown-container .countdown-heading {
+  font-size: 16px;
+  margin: 11px 0;
+  color: #ffffff;
+  font-family: 'montserratlight';
+}
+
+.countdown-container .countdown-value {
+  font-size: 60px;
+  background:rgba(255,255,255,0.2);
+  padding: 33px 0px;
+  color: #fff;
+  width:110px;
+  border-radius:7px;
+  font-family: 'montserratextrabold';
+}
